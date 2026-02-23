@@ -1,17 +1,15 @@
-# flutter_application_1
+# Proyecto Flutter - Application
 
-A new Flutter project.
+## Descripción
+Este proyecto fue creado utilizando la plantilla Application de Flutter.
+Se compiló en modo release generando su respectivo archivo APK.
 
-## Getting Started
+## APK Generado
+Ruta del archivo:
+build/app/outputs/flutter-apk/app-release.apk
 
-This project is a starting point for a Flutter application.
+## Evidencia
+Se adjuntan capturas de pantalla de la aplicación ejecutándose en dispositivo móvil.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Autor
+Karen Dayanna Quemba Cruz
